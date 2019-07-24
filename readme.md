@@ -1,0 +1,1 @@
+My discord.py bot for the germany challenge
